@@ -11,6 +11,7 @@ class UserAction {
       game,      // Users current Gamestate
     }
   }
+
 }
 
 export default UserAction;

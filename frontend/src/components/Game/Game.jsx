@@ -10,6 +10,7 @@ class Game extends Component {
       </section>
     )
   }
+
 }
 
 export default Game;
