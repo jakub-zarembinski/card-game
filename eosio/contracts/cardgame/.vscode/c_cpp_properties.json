@@ -1,0 +1,29 @@
+{
+    "configurations": [
+        {
+            "includePath": [
+                "c:/Users/tokenika/AppData/Local/Packages/CanonicalGroupLimited.Ubuntu18.04onWindows_79rhkp1fndgsc/LocalState/rootfs/usr/opt/eosio.cdt/1.6.1/include/**",
+                "${workspaceFolder}/**",
+                "${workspaceFolder}/include"
+            ],
+            "libs": [],
+            "codeOptions": [
+                "--verbose",
+                "--src ./src/cardgame.cpp"
+            ],
+            "testOptions": [],
+            "defines": [],
+            "intelliSenseMode": "clang-x64",
+            "browse": {
+                "path": [
+                    "c:/Users/tokenika/AppData/Local/Packages/CanonicalGroupLimited.Ubuntu18.04onWindows_79rhkp1fndgsc/LocalState/rootfs/usr/opt/eosio.cdt/1.6.1/include/**",
+                    "${workspaceFolder}/**",
+                    "${workspaceFolder}/include"
+                ],
+                "limitSymbolsToIncludedHeaders": true,
+                "databaseFilename": ""
+            }
+        }
+    ],
+    "version": 4
+}
